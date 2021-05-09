@@ -21,7 +21,7 @@ chmod +x fuzzbizz.sh
 
 # Usage
 
-To use this tool, you need a program taking inputs from stdin and a corpusof tests (normally your functional tests).
+To use this tool, you need a program taking inputs from stdin and a corpus of tests (normally your functional tests).
 
 Create a folder to store the crashes found by the program.
 
