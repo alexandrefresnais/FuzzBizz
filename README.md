@@ -4,7 +4,7 @@ Use your functional tests to find crashes you did not expect !
 # Warning
 
 This tool is using fuzzing.
-You may have undesirable outcomes if you use it with a program having the ability to create/modify/delete files.
+You may have undesirable outcomes if you use it with a program having the ability to create/modify/delete files or acting with the OS in any way.
 
 I strongly suggest you to run this in a docker container.
 I decline any responsability for any damage caused by this tool.
