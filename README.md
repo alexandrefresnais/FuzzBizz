@@ -31,3 +31,5 @@ Then run:
 ```
 
 Fuzzbizz will tell you if it finds crashes and store the input that made your program crash in the crashes folder.
+
+The `tests folder` should only contain tests files that can be passed to your program.
